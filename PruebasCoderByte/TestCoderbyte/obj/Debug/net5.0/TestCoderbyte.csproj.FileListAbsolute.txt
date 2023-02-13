@@ -1,0 +1,16 @@
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\bin\Debug\net5.0\TestCoderbyte.exe
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\bin\Debug\net5.0\TestCoderbyte.deps.json
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\bin\Debug\net5.0\TestCoderbyte.runtimeconfig.json
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\bin\Debug\net5.0\TestCoderbyte.runtimeconfig.dev.json
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\bin\Debug\net5.0\TestCoderbyte.dll
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\bin\Debug\net5.0\ref\TestCoderbyte.dll
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\bin\Debug\net5.0\TestCoderbyte.pdb
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.dll
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\ref\TestCoderbyte.dll
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.pdb
+C:\Development2022\ApplicationFull\PruebasCoderByte\TestCoderbyte\obj\Debug\net5.0\TestCoderbyte.genruntimeconfig.cache
